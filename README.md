@@ -6,11 +6,11 @@ Repository ini saya buat untuk mendokumentasikan pembelajaran dan praktikum Jari
 
 | No. | Modul | Topik |
 |---|---|---|
-| 01 | [Basic Device Configuration](./01-basic-device-configuration/) | Konfigurasi dasar perangkat jaringan |
-| 02 | [Switch Concept dan VLAN](./02-switch-concept-vlan/) | Konsep switching dan Virtual LAN |
-| 03 | [Konfigurasi VLAN, Trunk, dan Inter-VLAN](./03-vlan-trunk-inter-vlan/) | Konfigurasi VLAN, trunk, dan komunikasi antar-VLAN |
-| 04 | [Spanning Tree Protocol](./04-spanning-tree-protocol/) | Pencegahan loop pada jaringan Layer 2 |
-| 05 | [EtherChannel](./05-etherchannel/) | Penggabungan beberapa link fisik menjadi satu logical link |
+| 01 | [Basic Device Configuration](./modul01-basic-device-configuration/) | Konfigurasi dasar perangkat jaringan |
+| 02 | [Switch Concept dan VLAN](./modul02-switch-concept-vlan/) | Konsep switching dan Virtual LAN |
+| 03 | [Konfigurasi VLAN, Trunk, dan Inter-VLAN](./modul03-vlan-trunk-inter-vlan/) | Konfigurasi VLAN, trunk, dan komunikasi antar-VLAN |
+| 04 | [Spanning Tree Protocol](./modul04-spanning-tree-protocol/) | Pencegahan loop pada jaringan Layer 2 |
+| 05 | [EtherChannel](./modul05-etherchannel/) | Penggabungan beberapa link fisik menjadi satu logical link |
 
 ## Struktur Folder
 
